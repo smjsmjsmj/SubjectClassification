@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubjectClassification", "SubjectClassification\SubjectClassification.csproj", "{545AD6A8-44F9-4721-BDFD-2EE44BA8450D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubjectClassificationService", "SubjectClassificationService\SubjectClassificationService.csproj", "{260653A9-D5BD-4CC5-90FA-6AFD1609008E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545AD6A8-44F9-4721-BDFD-2EE44BA8450D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545AD6A8-44F9-4721-BDFD-2EE44BA8450D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545AD6A8-44F9-4721-BDFD-2EE44BA8450D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545AD6A8-44F9-4721-BDFD-2EE44BA8450D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260653A9-D5BD-4CC5-90FA-6AFD1609008E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260653A9-D5BD-4CC5-90FA-6AFD1609008E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260653A9-D5BD-4CC5-90FA-6AFD1609008E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260653A9-D5BD-4CC5-90FA-6AFD1609008E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A054EEE-4F54-4CF2-9E08-5AB5944727B6}
+	EndGlobalSection
+EndGlobal
